@@ -1,0 +1,11 @@
+{
+  "name": "savings_calc_jquery",
+  "version": "1.0.0",
+  "description": "savings calc app exercise to learn jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike M. Nguyen <tfm2lol@gmail.com> (http://example.ca/)",
+  "license": "MIT"
+}
